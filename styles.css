@@ -102,8 +102,9 @@ li {
   font-weight: bold;
 }
 
-footer {
+.footer {
   color: rgb(126, 126, 185);
+  text-align: center;
 }
 .name {
   color: rgb(87, 87, 214);
