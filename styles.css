@@ -101,3 +101,14 @@ li {
   font-size: 26px;
   font-weight: bold;
 }
+
+footer {
+  color: rgb(126, 126, 185);
+}
+.name {
+  color: rgb(87, 87, 214);
+  color: rgb(53, 53, 68);
+}
+a {
+  text-decoration: none;
+}
